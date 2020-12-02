@@ -8,6 +8,6 @@
 - Single Core = 23.4 seconds
 - Multi Core = 34.6 seconds
 
-## Intel i5-8259U
+## Intel i5-8259U (4 core, 8 threads)
 - Single Core = 32.1 seconds
 - Multi Core = 94.4 seconds
