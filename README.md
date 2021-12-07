@@ -1,5 +1,9 @@
 # Benchmark results:
 
+## Apple M1 Pro (10 core, 10 threads)
+- Single Core = 29.6 seconds
+- Multi Core = 35.3 seconds
+
 ## AMD Ryzen 5950x (16 core, 32 threads)
 - Single Core = 20.8 seconds
 - Multi Core = 13.6 seconds
