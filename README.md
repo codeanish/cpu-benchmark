@@ -1,6 +1,6 @@
 # Benchmark results:
 
-## Apple M1 Pro (10 core, 10 threads)
+## Apple M1 Pro (10 core, 10 threads) - Running on battery
 - Single Core = 29.6 seconds
 - Multi Core = 35.3 seconds
 
