@@ -1,5 +1,9 @@
 # Benchmark results:
 
+## Apple M1 ultra (20 core, 20 threads)
+- Single Core 29.2 seconds
+- Multi Core = 17.2 seconds
+
 ## Apple M1 Pro (10 core, 10 threads) - Running on battery
 - Single Core = 29.6 seconds
 - Multi Core = 35.3 seconds
