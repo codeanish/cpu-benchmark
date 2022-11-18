@@ -1,5 +1,7 @@
 # Benchmark results:
 
+The below benchmark results are as a result of runs of the code on various different machines.
+
 ## Apple M1 ultra (20 core, 20 threads)
 - Single Core 29.2 seconds
 - Multi Core = 17.2 seconds
